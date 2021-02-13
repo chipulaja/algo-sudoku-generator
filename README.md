@@ -59,7 +59,7 @@ $ vendor\bin\phpunit
 ```
 
 [ico-version]: https://img.shields.io/packagist/v/Chipulaja/Algo-Sudoku-Generator.svg?style=flat-square
-[ico-travis]: https://travis-ci.org/Chipulaja/Algo-Sudoku-Generator.svg?branch=master
+[ico-travis]: https://travis-ci.org/Chipulaja/Algo-Sudoku-Generator.svg?branch=main
 [ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/Chipulaja/Algo-Sudoku-Generator.svg?style=flat-square
 [ico-code-quality]: https://img.shields.io/scrutinizer/g/chipulaja/Algo-Sudoku-Generator.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/chipulaja/algo-sudoku-generator.svg?style=flat-square
