@@ -1,0 +1,8 @@
+/vendor/
+/build/
+/temp/
+
+.phpunit
+.phpunit.result.cache
+/phpunit.xml
+coverage.clover
